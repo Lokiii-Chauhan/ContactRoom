@@ -5,4 +5,6 @@
     <string name="save_text">Save</string>
     <string name="empty">Enter Information...</string>
     <string name="floating_button">Floation Button</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
 </resources>
